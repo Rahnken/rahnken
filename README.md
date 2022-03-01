@@ -10,8 +10,8 @@
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)][linkedin]
-[![website](./img/linkedin-dark.svg)][linkedin]
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erdonnelly#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erdonnelly#gh-dark-mode-only)
 
 ### Languages and Tools:
 
