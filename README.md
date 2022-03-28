@@ -2,7 +2,7 @@
 
 ## I'm a Student, Father, and Developer
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning  Javascript and Data Analytics Applications
 - 🥅 2022 Goals: Land a Job in Web Development or Project Management
 
 ### Connect with me:
@@ -23,6 +23,10 @@
 <br />
 
 ---
+
+### Projects 
+
+https://public.tableau.com/app/profile/eric.donnelly2785/viz/Assignment3_16484992974980/AssignmentStory
 
 <details>
   <summary>:zap: GitHub Stats</summary>
