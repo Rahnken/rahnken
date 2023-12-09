@@ -1,20 +1,24 @@
 ### Hi there, I'm Eric aka Rahnken 👋
 
-## I'm a Student, Father, and Developer
+## I'm a Father, and Developer
 
-- 🌱 I’m currently learning  Javascript and Data Analytics Applications
-- 🥅 2022 Goals: Land a Job in Web Development or Project Management
+- 🌱 I’m currently learning React , Next.JS
+- 🥅 2024 Goals: Land a Job in Web Development
 
 ### Connect with me:
 
-[//]: # (// TODO: Retarget this link to portfolio website */)
-[![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
+[//]: # "// TODO: Retarget this link to portfolio website */"
+
+[![website](./img/globe-light.svg)](https://donnellydev.ca)
+[![website](./img/globe-dark.svg)](https://donnellydev.ca)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/erdonnelly#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/erdonnelly#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/erdonnelly#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/erdonnelly#gh-dark-mode-only)
 
 ### Languages and Tools:
+
+<!-- React, Java, Javascript/Typescript, SQL, HTML, CSS,Swift, Kotlin   -->
+<!-- Mongo DB , Github, Trello, Jira ,Prisma  -->
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github]
@@ -24,9 +28,17 @@
 
 ---
 
-### Projects 
+### Projects
 
-https://public.tableau.com/app/profile/eric.donnelly2785/viz/Assignment3_16484992974980/AssignmentStory
+<!--
+ - hackathon
+ - Lord of the Forms
+ - AoC 2023
+ - Meal Plans
+ - Life Tracker
+ - Assignment 3 - MDEV 1004 ( GroupofFourMDEV)
+ - Assignment 2 - MDEV 1005 ( GroupofFourMDEV)
+-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -35,7 +47,6 @@ https://public.tableau.com/app/profile/eric.donnelly2785/viz/Assignment3_1648499
 
 </details>
 
-[website]: https://codeSTACKr.com
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://donnellydev.ca
 [linkedin]: https://linkedin.com/in/erdonnelly
-[github]:https://github.com/rahnken
+[github]: https://github.com/rahnken
