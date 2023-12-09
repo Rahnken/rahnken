@@ -9,8 +9,8 @@
 
 [//]: # "// TODO: Retarget this link to portfolio website */"
 
-[![website](./img/globe-light.svg)](https://donnellydev.ca)
-[![website](./img/globe-dark.svg)](https://donnellydev.ca)
+[![website](./img/globe-light.svg)](https://donnellydev.ca#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://donnellydev.ca#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/erdonnelly#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/erdonnelly#gh-dark-mode-only)
@@ -20,8 +20,8 @@
 <!-- React, Java, Javascript/Typescript, SQL, HTML, CSS,Swift, Kotlin   -->
 <!-- Mongo DB , Github, Trello, Jira ,Prisma  -->
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github#gh-light-mode-only]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github#gh-dark-mode-only]
 
 <br />
 <br />
