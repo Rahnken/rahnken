@@ -9,8 +9,8 @@
 
 [//]: # "// TODO: Retarget this link to portfolio website */"
 
-[![website](./img/globe-light.svg)](https://donnellydev.ca)
-[![website](./img/globe-dark.svg)](https://donnellydev.ca)
+[![website](./img/globe-light.svg)](https://donnellydev.ca#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://donnellydev.ca#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/erdonnelly#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/erdonnelly#gh-dark-mode-only)
