@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Express and Prisma**
 
-- 👨‍💻 All of my projects are available at [DonnellyDev.ca](DonnellyDev.ca)
+- 👨‍💻 All of my projects are available at [DonnellyDev.ca](https://DonnellyDev.ca)
 
 - 📫 How to reach me **eric@donnellydev.ca**
 
