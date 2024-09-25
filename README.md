@@ -15,9 +15,9 @@
 **<h3 align="center">Connect with me:</h3>**
 <p align="center"><a href="https://github.com/rahnken" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erdonnelly/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="eric@donnellydev.ca" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">A dynamic Web and Application Developer with a solid foundation in both front-end and back-end technologies. I bring to the table a highly organized approach, excellent interpersonal skills, and a relentless passion for crafting efficient, visually appealing digital solutions.
+<h3 align="left">A dynamic Web and Application Developer with a solid foundation in both front-end and back-end technologies. I bring to the table a highly organized approach, excellent interpersonal skills, and a relentless passion for crafting efficient, visually appealing digital solutions.
 
-With a commitment to continuous learning, I am always expanding my knowledge in the fast-paced world of web development. My goal? To make a positive impact on users and clients alike through innovative solutions.</h3>**
+With a commitment to continuous learning, I am always expanding my knowledge in the fast-paced world of web development. My goal? To make a positive impact on users and clients alike through innovative solutions.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
